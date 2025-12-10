@@ -1,3 +1,3 @@
-# memo
-Memopak
-memoobb
+/memo
+memopak1
+memoobb2
